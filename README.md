@@ -5,7 +5,7 @@
 ### `IKIN` - węzeł, wyliczający kinematykę odwrotną
 #### Aby uruchomić system należy:
 ##### Wsyztkie polecenia należy wpisywać w terminalu(`CTR+ALT+T`)
-1. Pobrać repozytorium za pomocą polecenia `git clone 'https://github.com/pw-eiti-anro-21l/klimuk_stankevich.git'`
+1. Pobrać repozytorium za pomocą polecenia `git clone 'https://github.com/pklimuk/ROS2_projects.git'`
 2. Przejść do foldera **klimuk_stankevich** za pomocą polecenia `cd klimuk_stankevich/`
 3. Wywołać `colcon_build`
 4. Wywołać `. install/local_setup.bash`
